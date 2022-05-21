@@ -1,2 +1,2 @@
 # FRAM
-Face recognition project with attendance marking and login registration service website
+Face recognition with attendance marking and login registration service website
